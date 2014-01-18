@@ -1,4 +1,1 @@
-shell_learning
-==============
-
-learn how to use shell 
+将工作中遇到的各种shell命令记录下来。
